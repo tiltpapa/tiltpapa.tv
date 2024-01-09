@@ -2,10 +2,10 @@
     import { each } from "svelte/internal";
 
 	const links = [
-		{"label": "Twitter", "href":"https://x.com/tiltpapa"},
-		{"label":"Nostr","href":"https://nostter.app/tiltpapa.tv"},
-		{"label":"Bluesky","href":"https://bsky.app/profile/tiltpapa.tv"},
-		{"label":"Mastodon","href":"https://mstdn.jp/@tiltpapa"}
+		{"label": "Twitter","href": "https://x.com/texiruto3"},
+		{"label": "Nostr","href": "https://nostter.app/tiltpapa.tv"},
+		{"label": "Bluesky","href": "https://bsky.app/profile/tiltpapa.tv"},
+		{"label": "Mastodon","href": "https://mstdn.jp/@tiltpapa"}
 	];
 </script>
 
